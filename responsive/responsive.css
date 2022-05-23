@@ -2,6 +2,7 @@
 .container{
     display: grid;
     width: 100vw;
+    min-width: 500px;
     height: 100vh;
     grid-template-areas: "header header header header"
                         "section section section aside"
